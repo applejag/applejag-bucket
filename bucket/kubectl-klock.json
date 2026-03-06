@@ -1,5 +1,5 @@
 {
-    "version": "0.8.0",
+    "version": "0.8.4",
     "description": "A kubectl plugin for more readable watch output",
     "homepage": "https://github.com/applejag/kubectl-klock",
     "license": "GPL-3.0",
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/applejag/kubectl-klock/releases/download/v0.8.0/kubectl-klock_windows_amd64.zip",
-            "hash": "6606c27ca40bac6558b2398daf1378bdf5e9f710d1ff95847b2abfa80e001ee2"
+            "url": "https://github.com/applejag/kubectl-klock/releases/download/v0.8.4/kubectl-klock_windows_amd64.zip",
+            "hash": "0f77735c40cdff8227b42388ab5ecabb1bc7ba81f01bcf156d449251166ddb44"
         },
         "32bit": {
-            "url": "https://github.com/applejag/kubectl-klock/releases/download/v0.8.0/kubectl-klock_windows_386.zip",
-            "hash": "69c98894f6c77b1cde93008c0614f1cdc65443a3dafe76dd4b072fcb1f41a54d"
+            "url": "https://github.com/applejag/kubectl-klock/releases/download/v0.8.4/kubectl-klock_windows_386.zip",
+            "hash": "14ce73c04f5c591925b9d44adc033dfb158ad518fd1204d771e0aafeb125b4be"
         },
         "arm64": {
-            "url": "https://github.com/applejag/kubectl-klock/releases/download/v0.8.0/kubectl-klock_windows_arm64.zip",
-            "hash": "ff26bfee54d842feab5456362c56e4abfce467c58445f739a6c587413e751ea3"
+            "url": "https://github.com/applejag/kubectl-klock/releases/download/v0.8.4/kubectl-klock_windows_arm64.zip",
+            "hash": "3f1e3eac65e2dbb0acd0d8e0675cb56b479012c88cd2fb7214cfa30d8ee28101"
         }
     },
     "bin": "kubectl-klock.exe",
